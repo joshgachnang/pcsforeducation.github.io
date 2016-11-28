@@ -7,6 +7,7 @@ date: 2013-06-04 20:40
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: DBAN, PXE, Ubuntu

@@ -7,6 +7,7 @@ date: 2011-06-04 19:20
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: nginx, Ubuntu, Wordpress

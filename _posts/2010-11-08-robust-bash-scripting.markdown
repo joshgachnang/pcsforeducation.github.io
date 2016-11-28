@@ -7,6 +7,7 @@ date: 2010-11-08 21:04
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: BASH

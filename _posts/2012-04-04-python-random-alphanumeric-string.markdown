@@ -7,6 +7,7 @@ date: 2012-04-04 15:47
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Python

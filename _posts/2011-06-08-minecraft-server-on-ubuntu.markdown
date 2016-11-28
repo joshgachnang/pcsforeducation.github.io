@@ -7,6 +7,7 @@ date: 2011-06-08 12:09
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Minecraft, Ubuntu

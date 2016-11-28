@@ -7,6 +7,7 @@ date: 2010-11-16 20:54
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Windows

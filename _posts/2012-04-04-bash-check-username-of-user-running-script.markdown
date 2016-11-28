@@ -6,6 +6,7 @@ date: 2012-04-04 19:30
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: BASH

@@ -7,6 +7,7 @@ date: 2013-04-23 16:41
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Django, Logging, Python, TriviaStats

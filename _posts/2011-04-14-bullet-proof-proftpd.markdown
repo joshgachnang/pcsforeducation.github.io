@@ -6,6 +6,7 @@ date: 2011-04-14 22:45
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: FTP, Ubuntu, Webserver

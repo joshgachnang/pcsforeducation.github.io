@@ -6,6 +6,7 @@ date: 2011-11-03 12:54
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Dive Into Python, Python

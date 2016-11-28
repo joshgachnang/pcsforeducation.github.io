@@ -7,6 +7,7 @@ date: 2011-11-01 13:03
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: FreeNAS, FreeNAS to Ubuntu, Ubuntu, ZFS

@@ -2,6 +2,7 @@
 title: Django Performance Tuning
 
 layout: default
+comments: true
 category: Articles
 
 tags: Django Python

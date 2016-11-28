@@ -7,6 +7,7 @@ date: 2012-02-12 13:27
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: FreeNAS, FreeNAS to Ubuntu, Torrent, Ubuntu

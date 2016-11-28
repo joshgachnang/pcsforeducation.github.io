@@ -6,6 +6,7 @@ date: 2012-01-21 13:10
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: BASH, Python

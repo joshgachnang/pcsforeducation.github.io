@@ -7,6 +7,7 @@ date: 2011-06-05 12:08
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Ubuntu

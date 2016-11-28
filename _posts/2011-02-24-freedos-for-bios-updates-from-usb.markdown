@@ -7,6 +7,7 @@ date: 2011-02-24 15:23
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Tips

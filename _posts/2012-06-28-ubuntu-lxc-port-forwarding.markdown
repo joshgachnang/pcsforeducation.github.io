@@ -7,6 +7,7 @@ date: 2012-06-28 20:37
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: LXC, Ubuntu

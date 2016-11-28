@@ -7,6 +7,7 @@ date: 2010-11-07 17:57
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 permalink: kids-need-computers-too

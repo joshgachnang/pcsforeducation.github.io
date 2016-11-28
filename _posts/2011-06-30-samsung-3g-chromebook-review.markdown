@@ -7,6 +7,7 @@ date: 2011-06-30 11:10
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: Chromebook, ChromeOS

@@ -2,6 +2,7 @@
 title: Hardware Deployment with vPro
 
 layout: default
+comments: true
 category: Articles
 
 tags: vPro Hardware

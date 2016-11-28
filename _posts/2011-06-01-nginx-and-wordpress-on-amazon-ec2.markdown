@@ -7,6 +7,7 @@ date: 2011-06-01 08:12
 author: Josh
 
 layout: default
+comments: true
 category: Articles
 
 tags: EC2, nginx, Webserver, Wordpress
