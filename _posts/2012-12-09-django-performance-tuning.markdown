@@ -78,14 +78,14 @@ and horrifying performance. Reconfiguring our database to not require
 access to ManyToMany fields for normal queries shaved off about 5
 seconds on its own. That was kind of shocking.
 
-model_to_dict() or values()?
+`model_to_dict()` or values()?
 ------------------------------
 
 In my case, I needed all 100 of the Apartment objects to be a dictionary
 before passing them back to the frontend as JSON. At first, I tried
-using model_to_dict() on the complete object just before returning
+using `model_to_dict()` on the complete object just before returning
 them. At first, I was converting all of the objects to dicts with
-model_to_dict(), but that was causing about a 0.3 second slow down.
+`model_to_dict()`, but that was causing about a 0.3 second slow down.
 Even after moving it, I was still getting a slow down of about 1/10 of
 that, which isn't unbearable. Instead, I switched to calling
 [.values()](https://docs.djangoproject.com/en/dev/ref/models/querysets/#django.db.models.query.QuerySet.values)
